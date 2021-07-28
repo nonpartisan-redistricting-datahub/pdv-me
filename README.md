@@ -8,4 +8,4 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 ## vest-me-2018
 RDH's partner data validation for VEST's 2018 ME file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/7TPDT9&version=41.0). 
 
-RDH's report is available [here](). [In progress]
+RDH's report is available [here](https://redistrictingdatahub.org/dataset/vest-2018-maine-precinct-and-election-results/).
