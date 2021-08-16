@@ -11,19 +11,19 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ### Accessible files
 - VEST ME 16 data file
- - Accessed 07/08/21, Source: VEST
- - https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/CHOCIN&version=62.0
+  - Accessed 07/08/21, Source: VEST
+  - https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/CHOCIN&version=62.0
 - VEST ME 16 documentation file
- - Accessed: 07/27/21, Source: VEST
- - https://dataverse.harvard.edu/file.xhtml?fileId=4863153&version=62.0
+  - Accessed: 07/27/21, Source: VEST
+  - https://dataverse.harvard.edu/file.xhtml?fileId=4863153&version=62.0
 - ME Precinct-Level Election Results
- - Accessed: 07/08/21, Source: ID Secretary of State
- - https://www.maine.gov/sos/cec/elec/results/results18.html#nonrcv
- - File names: governor11-6-18.xls and us-senate11-6-18.xls  (available upon request)
+  - Accessed: 07/08/21, Source: ID Secretary of State
+  - https://www.maine.gov/sos/cec/elec/results/results18.html#nonrcv
+  - File names: governor11-6-18.xls and us-senate11-6-18.xls  (available upon request)
 - ME Voting Precincts 2016 Shapefile
- - Accessed: 07/13/21, Source: U.S. Census Bureau's 2020 Redistricting Data Program Phase 2 release
- - https://www.census.gov/geo/partnerships/pvs/partnership19v2/st23_me.html
- - Note: Up to 5 downloaded at a time
+  - Accessed: 07/13/21, Source: U.S. Census Bureau's 2020 Redistricting Data Program Phase 2 release
+  - https://www.census.gov/geo/partnerships/pvs/partnership19v2/st23_me.html
+  - Note: Up to 5 downloaded at a time
 - Auburn Election Results  
   - Accessed: 07/08/21
   - https://www.auburnmaine.gov/CMSContent/City_Clerk/OFFICIAL%20RESULTS%20-%20BY%20WARD.pdf
