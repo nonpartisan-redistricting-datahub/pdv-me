@@ -1,7 +1,7 @@
 # pdv-me
 Partner data validation for Maine, from VEST 2020. 
 
-Our final validation report for this dataset is available[In-Process] [here](https://redistrictingdatahub.org/dataset/).
+Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2020-maine-precinct-boundaries-and-election-results-shapefile/).
 
 We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
 
