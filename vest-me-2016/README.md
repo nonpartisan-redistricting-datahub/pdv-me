@@ -1,7 +1,7 @@
 # pdv-me
 Partner data validation for Maine, from VEST 2016. 
 
-Our final validation report for this dataset is available(IN-PROCESS [here](https://redistrictingdatahub.org/dataset/).
+Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2016-maine-precinct-and-election-results/).
 
 We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
 
@@ -17,9 +17,8 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Accessed: 07/27/21, Source: VEST
   - https://dataverse.harvard.edu/file.xhtml?fileId=4863153&version=62.0
 - ME Precinct-Level Election Results
-  - Accessed: 07/08/21, Source: ID Secretary of State
-  - https://www.maine.gov/sos/cec/elec/results/results18.html#nonrcv
-  - File names: governor11-6-18.xls and us-senate11-6-18.xls  (available upon request)
+  - Accessed: 07/08/21, Source: ME Secretary of State
+  - https://www.maine.gov/sos/cec/elec/results/results16-17.html#tally
 - ME Voting Precincts 2016 Shapefile
   - Accessed: 07/13/21, Source: U.S. Census Bureau's 2020 Redistricting Data Program Phase 2 release
   - https://www.census.gov/geo/partnerships/pvs/partnership19v2/st23_me.html
